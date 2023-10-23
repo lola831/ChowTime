@@ -1,0 +1,6 @@
+pipenv shell
+flask run
+-cd react-app
+npm start
+
+-----need to add to render
